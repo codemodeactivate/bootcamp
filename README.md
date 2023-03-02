@@ -1,14 +1,14 @@
 # edX Case Western Coding Bootcamp 
 
-##Modules
+## Modules
 
 https://github.com/codemodeactivate/module01-challenge
 
 https://github.com/codemodeactivate/module02-challenge
 
 
-##Projects
+## Projects
 
 
 
-##Selected Coursework
+## Selected Coursework
