@@ -26,6 +26,8 @@
 
 [Game to learn Grid](https://gridcritters.com/)
 
+[Flukeout - CSS Game](https://flukeout.github.io/)
+
 [CSS Gamified](https://cssbattle.dev/)
 
 [@KevinPowell Youtube Channel](https://www.youtube.com/@KevinPowell/videos)
