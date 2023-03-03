@@ -18,6 +18,8 @@
 
 ### Resources I've Found Helpful
 
+[p1xt Web Dev Roadmap](https://github.com/P1xt/p1xt-guides)
+
 [You don't know JS](https://djangocas.dev/free-books/you-dont-know-js/)
 
 [Game to learn Flexbox](https://flexboxfroggy.com/)
