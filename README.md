@@ -1,4 +1,4 @@
-# edX Case Western Coding Bootcamp 
+# edX Case Western Coding Bootcamp
 
 ## Modules
 
@@ -12,8 +12,8 @@
 ## Projects
 
 
-
 ## Selected Coursework
+
 
 
 ### Resources I've Found Helpful
