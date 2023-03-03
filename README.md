@@ -18,20 +18,20 @@
 
 ### Resources I've Found Helpful
 
-[https://djangocas.dev/free-books/you-dont-know-js/](You don't know JS)
+[You don't know JS](https://djangocas.dev/free-books/you-dont-know-js/)
 
-[https://flexboxfroggy.com/](Game to learn Flexbox)
+[Game to learn Flexbox](https://flexboxfroggy.com/)
 
-[https://gridcritters.com/](Game to learn Grid)
+[Game to learn Grid](https://gridcritters.com/)
 
-[https://cssbattle.dev/](CSS Gamified)
+[CSS Gamified](https://cssbattle.dev/)
 
-[https://www.youtube.com/@KevinPowell/videos](@KevinPowell Youtube Channel)
+[@KevinPowell Youtube Channel](https://www.youtube.com/@KevinPowell/videos)
 
-[https://www.frontendmentor.io/challenges](Front Enc Challenges)
+[Front Enc Challenges](https://www.frontendmentor.io/challenges)
 
-[https://www.awwwards.com/](Awwwards - beautiful websites)
+[Awwwards - beautiful websites](https://www.awwwards.com/)
 
-[https://www.youtube.com/@WebDevSimplified/videos](@WebDevSimplified Youtube Channel)
+[@WebDevSimplified Youtube Channel](https://www.youtube.com/@WebDevSimplified/videos)
 
-[https://leetcode.com/problemset/all/](Leetcode)
+[Leetcode](https://leetcode.com/problemset/all/)
