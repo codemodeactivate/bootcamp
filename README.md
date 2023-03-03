@@ -6,6 +6,8 @@
 
 [Module 02 Challenge](https://github.com/codemodeactivate/module02-challenge)
 
+[Module 03 Challenge](https://github.com/codemodeactivate/module03-challenge)
+
 
 ## Projects
 
