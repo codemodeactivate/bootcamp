@@ -12,8 +12,8 @@
 ## Projects
 [Module 03 Mini-Project - Rock Paper Scissors](https://github.com/codemodeactivate/module03-mini-project)
 
-## Selected Coursework
-
+## Notes
+[/objects.md](Objects)
 
 
 ### Resources I've Found Helpful
