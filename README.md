@@ -13,7 +13,7 @@
 [Module 03 Mini-Project - Rock Paper Scissors](https://github.com/codemodeactivate/module03-mini-project)
 
 ## Notes
-[/objects.md](Objects)
+[https://github.com/codemodeactivate/bootcamp/blob/main/objects.md](Objects)
 
 
 ### Resources I've Found Helpful
