@@ -21,6 +21,3 @@ function breakDownObj(obj) {
   return [...keys, ...values];
 
 }
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = breakDownObj;

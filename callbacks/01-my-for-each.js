@@ -30,5 +30,3 @@ let myForEach = function(arr, callback) {
 
 
 
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = myForEach;

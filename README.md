@@ -2,15 +2,15 @@
 
 ## Modules
 
-[Module 01 Challenge](https://github.com/codemodeactivate/module01-challenge)
+[Code Refactor - Module 01 Challenge](https://github.com/codemodeactivate/code-refactor)
 
-[Module 02 Challenge](https://github.com/codemodeactivate/module02-challenge)
+[Portfolio Design - Module 02 Challenge](https://github.com/codemodeactivate/portfolio-design)
 
-[Module 03 Challenge](https://github.com/codemodeactivate/module03-challenge)
+[Password Generator - Module 03 Challenge](https://github.com/codemodeactivate/password-generator)
 
 
 ## Projects
-[Module 03 Mini-Project - Rock Paper Scissors](https://github.com/codemodeactivate/module03-mini-project)
+[Rock Paper Scissors - Module 03 Mini-Project](https://github.com/codemodeactivate/rock-paper-scissors)
 
 ## Notes
 [Objects](https://github.com/codemodeactivate/bootcamp/blob/main/OBJECTS.md)

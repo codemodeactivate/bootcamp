@@ -27,6 +27,3 @@ function keyInObjectArray(objArray, keyString) {
   }
   return false;
 }
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = keyInObjectArray;

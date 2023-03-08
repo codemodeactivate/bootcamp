@@ -52,11 +52,3 @@ let suffixCipher = function(sentence, suffixes) {
     return result.join(' ');
 
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = suffixCipher;

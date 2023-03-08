@@ -34,11 +34,3 @@ let atMost = function(arr, max, cb) {
     }
     return true;
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = atMost;

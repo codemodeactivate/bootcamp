@@ -16,6 +16,3 @@ function spreadItOut(array1, array2) {
   return combined;
 
 }
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = spreadItOut;

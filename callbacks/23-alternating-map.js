@@ -48,9 +48,3 @@ let alternatingMap = function(arr, cb1, cb2) {
       return res;
 
 };
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = alternatingMap;

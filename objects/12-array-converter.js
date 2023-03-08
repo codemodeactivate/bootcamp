@@ -25,7 +25,3 @@ function arrayConverter(array) {
   }
   return count;
 }
-
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = arrayConverter;

@@ -17,6 +17,3 @@ function restSum(...otherNums) {
   }
   return sum;
 }
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = restSum;

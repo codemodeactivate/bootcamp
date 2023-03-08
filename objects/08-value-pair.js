@@ -14,11 +14,8 @@ function valuePair(obj1, obj2, key) {
   // Your code here
   let value1 = obj1[key];
   let value2 = obj2[key];
-  
+
   return [value1, value2];
 
 
 }
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = valuePair;

@@ -40,11 +40,3 @@ return arr.filter((ele) => {
 });
 
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = xorSelect;

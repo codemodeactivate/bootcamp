@@ -37,11 +37,3 @@ let chainMap = function(val, ...cb) {
 
 return res;
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = chainMap;

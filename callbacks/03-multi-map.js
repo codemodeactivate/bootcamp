@@ -30,7 +30,3 @@ let multiMap = function(val, n, cb) {
 };
 
 
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = multiMap;

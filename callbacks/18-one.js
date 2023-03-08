@@ -50,11 +50,3 @@ let one = function(arr, cb) {
 
 return count ===1;
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = one;

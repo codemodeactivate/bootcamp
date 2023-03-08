@@ -23,7 +23,3 @@ let minValueCallback = function(arr, cb = x => x) {
 
 
 
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = minValueCallback;

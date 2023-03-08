@@ -17,6 +17,3 @@ function setKeyInObject(obj, string, value) {
   obj[string] = value;
   return obj;
 }
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = setKeyInObject;

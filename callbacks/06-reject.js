@@ -35,11 +35,3 @@ let reject = function(arr, cb) {
 
 return newArr;
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = reject;

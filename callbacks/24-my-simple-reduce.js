@@ -41,11 +41,3 @@ let mySimpleReduce = function(arr, cb) {
     }
     return accumulator;
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = mySimpleReduce;

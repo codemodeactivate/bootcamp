@@ -30,5 +30,3 @@ function valuesInObj(obj) {
   return Object.values(obj);
 }
 valuesInObj(animals);
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = valuesInObject;

@@ -34,7 +34,3 @@ let firstIndex = function(arr, cb) {
 
 
 
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = firstIndex;

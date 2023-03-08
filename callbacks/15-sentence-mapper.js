@@ -31,11 +31,3 @@ let sentenceMapper = function(str, cb) {
     return newWords.join(" ");
 
 };
-
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = sentenceMapper;

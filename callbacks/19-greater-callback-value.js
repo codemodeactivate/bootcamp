@@ -25,10 +25,3 @@ let greaterCallbackValue = function(val, cb1, cb2) {
 
 
 };
-
-
-
-
-
-/*****************DO NOT MODIFY ANYTHING UNDER THIS  LINE**********************/
-module.exports = greaterCallbackValue;

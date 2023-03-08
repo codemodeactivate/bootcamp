@@ -25,7 +25,3 @@ function stringConverter(string) {
   }
   return count;
 }
-
-
-/**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
-module.exports = stringConverter;
