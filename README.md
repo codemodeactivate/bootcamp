@@ -12,7 +12,7 @@
 
 [Work Day Scheduler - Module 05 Challenge](https://github.com/codemodeactivate/work-day-scheduler)
 
-[Weather Dashboard](https://github.com/codemodeactivate/weather-dashboard)
+[Weather Dashboard - Module 06 Challenge](https://github.com/codemodeactivate/weather-dashboard)
 
 
 ## Projects
