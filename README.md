@@ -12,6 +12,8 @@
 
 [Work Day Scheduler - Module 05 Challenge](https://github.com/codemodeactivate/work-day-scheduler)
 
+[Weather Dashboard](https://github.com/codemodeactivate/weather-dashboard)
+
 
 ## Projects
 [Rock Paper Scissors - Module 03 Mini-Project](https://github.com/codemodeactivate/rock-paper-scissors)
