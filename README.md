@@ -45,3 +45,11 @@
 [@WebDevSimplified Youtube Channel](https://www.youtube.com/@WebDevSimplified/videos)
 
 [Leetcode](https://leetcode.com/problemset/all/)
+
+[HTML, CSS, JavaScript Code Snippets](https://www.w3schools.com/howto/default.asp)
+
+[Tailwind Components - Elements](https://tailwind-elements.com/)
+
+[Tailwind Components - Daisy UI](https://daisyui.com/)
+
+[Tailwind Components - Flowbite](https://flowbite.com/docs/)
