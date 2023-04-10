@@ -55,3 +55,5 @@
 [Tailwind Components - Daisy UI](https://daisyui.com/)
 
 [Tailwind Components - Flowbite](https://flowbite.com/docs/)
+
+[Bulma CSS](https://bulma.io/) - used this for first group project. Very easy to use.
