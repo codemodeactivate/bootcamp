@@ -14,7 +14,7 @@
 
 [Weather Dashboard - Module 06 Challenge](https://github.com/codemodeactivate/weather-dashboard)
 
-[README Generator](https://github.com/codemodeactivate/readme-generator)
+[README Generator - Module 09 Challenge](https://github.com/codemodeactivate/readme-generator)
 
 ## Projects
 [Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
