@@ -16,6 +16,8 @@
 
 [README Generator - Module 09 Challenge](https://github.com/codemodeactivate/readme-generator)
 
+[SVG Generator - Module 10 Challenge](https://github.com/codemodeactivate/svg-logo-generator)
+
 ## Projects
 [Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
 
