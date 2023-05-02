@@ -18,6 +18,8 @@
 
 [SVG Generator - Module 10 Challenge](https://github.com/codemodeactivate/svg-logo-generator)
 
+[Note Taker Express - Module 11 Challenge](https://github.com/codemodeactivate/note-taker-express)
+
 ## Projects
 [Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
 
