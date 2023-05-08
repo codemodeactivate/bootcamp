@@ -20,6 +20,8 @@
 
 [Note Taker Express - Module 11 Challenge](https://github.com/codemodeactivate/note-taker-express)
 
+[SQL Employee Tracker - Module 12 Challenge](https://github.com/codemodeactivate/employee-tracker)
+
 ## Projects
 [Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
 
