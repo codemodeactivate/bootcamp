@@ -22,6 +22,8 @@
 
 [SQL Employee Tracker - Module 12 Challenge](https://github.com/codemodeactivate/employee-tracker)
 
+[E-Commerce Back End - Module 13 Challenge](https://github.com/codemodeactivate/E-Commerce-Back-End)
+
 ## Projects
 [Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
 
