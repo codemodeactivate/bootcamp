@@ -54,7 +54,7 @@
 
 [@KevinPowell Youtube Channel](https://www.youtube.com/@KevinPowell/videos)
 
-[Front Enc Challenges](https://www.frontendmentor.io/challenges)
+[Front End Challenges](https://www.frontendmentor.io/challenges)
 
 [Awwwards - beautiful websites](https://www.awwwards.com/)
 
