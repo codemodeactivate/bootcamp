@@ -2,34 +2,37 @@
 
 ## Modules
 
-[Code Refactor - Module 01 Challenge](https://github.com/codemodeactivate/code-refactor)
+[Code Refactor](https://github.com/codemodeactivate/code-refactor)
 
-[Portfolio Design - Module 02 Challenge](https://github.com/codemodeactivate/portfolio-design)
+[Portfolio Design](https://github.com/codemodeactivate/portfolio-design)
 
-[Password Generator - Module 03 Challenge](https://github.com/codemodeactivate/password-generator)
+[Password Generator](https://github.com/codemodeactivate/password-generator)
 
-[Code Quiz - Module 04 Challenge](https://github.com/codemodeactivate/code-quiz)
+[Code Quiz](https://github.com/codemodeactivate/code-quiz)
 
-[Work Day Scheduler - Module 05 Challenge](https://github.com/codemodeactivate/work-day-scheduler)
+[Work Day Scheduler](https://github.com/codemodeactivate/work-day-scheduler)
 
-[Weather Dashboard - Module 06 Challenge](https://github.com/codemodeactivate/weather-dashboard)
+[Weather Dashboard](https://github.com/codemodeactivate/weather-dashboard)
 
-[README Generator - Module 09 Challenge](https://github.com/codemodeactivate/readme-generator)
+[README Generator](https://github.com/codemodeactivate/readme-generator)
 
-[SVG Generator - Module 10 Challenge](https://github.com/codemodeactivate/svg-logo-generator)
+[SVG Generator](https://github.com/codemodeactivate/svg-logo-generator)
 
-[Note Taker Express - Module 11 Challenge](https://github.com/codemodeactivate/note-taker-express)
+[Note Taker Express](https://github.com/codemodeactivate/note-taker-express)
 
-[SQL Employee Tracker - Module 12 Challenge](https://github.com/codemodeactivate/employee-tracker)
+[SQL Employee Tracker](https://github.com/codemodeactivate/employee-tracker)
 
-[E-Commerce Back End - Module 13 Challenge](https://github.com/codemodeactivate/E-Commerce-Back-End)
+[E-Commerce Back End](https://github.com/codemodeactivate/E-Commerce-Back-End)
 
-[Tech Blog - Module 14 Challenge](https://github.com/codemodeactivate/tech-blog)
+[Tech Blog](https://github.com/codemodeactivate/tech-blog)
+
+[Social Network API](https://github.com/codemodeactivate/social-network-api)
 
 ## Projects
-[Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
 
-[Perfect Day Planner](https://github.com/codemodeactivate/perfect-day-planner) - Work in Progress, due 6/7/2023.
+[Perfect Day Planner](https://github.com/codemodeactivate/perfect-day-planner)
+
+[Book.It](https://github.com/codemodeactivate/book-it) - This was group project 1/3 where we had ~2 weeks to come up with an idea and deliver an MVP. May fork later to finish future dev ideas.
 
 ## Mini-Projects
 [Portfolio Generator](https://github.com/codemodeactivate/portfolio-website-generator)
