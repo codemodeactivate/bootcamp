@@ -28,6 +28,12 @@
 
 [Social Network API](https://github.com/codemodeactivate/social-network-api)
 
+[Text Editor](https://github.com/codemodeactivate/text-editor)
+
+[React Portfolio](https://github.com/codemodeactivate/react-portfolio)
+
+[Book Search Engine](https://github.com/codemodeactivate/book-search-engine)
+
 ## Projects
 
 [Perfect Day Planner](https://github.com/codemodeactivate/perfect-day-planner)
